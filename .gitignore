@@ -2,9 +2,11 @@
 # Hugo .gitignore
 # Generated files by hugo
 /public/
-/resources/_gen/
+#/resources/_gen/
+/resources/
 /assets/jsconfig.json
-hugo_stats.json
+#hugo_stats.json
+/node_modules/
 
 # Executable may be added to repository
 hugo.exe
