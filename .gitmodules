@@ -1,0 +1,6 @@
+[submodule "themes/radium"]
+	path = themes/radium
+	url = https://github.com/seasev/radium.git
+[submodule "themes/poison"]
+	path = themes/poison
+	url = https://github.com/lukeorth/poison.git
