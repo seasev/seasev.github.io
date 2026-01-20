@@ -113,3 +113,6 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     series = 'series'
     tags = 'tags'
+
+[caches.images]
+    dir = ':cacheDir/images'
