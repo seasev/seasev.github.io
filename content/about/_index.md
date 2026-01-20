@@ -1,5 +1,5 @@
 +++
-#layout = 'single'
+layout = 'single'
 title = 'About'
 date = 2026-01-20T03:17:24-05:00
 draft = false
