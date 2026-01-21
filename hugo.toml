@@ -17,7 +17,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand = "Sean S. Williams"                      # name of your site - appears in the sidebar
     # remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
     brand_image = "/images/headshot_cropped_more.webp"    # path to the image shown in the sidebar
-    description = "Computer Engineering @ Columbia University '27" # Used as default meta description if not specified in front matter
+    description = "Computer Engineering @ Columbia University ♔ Class of '27" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
 
