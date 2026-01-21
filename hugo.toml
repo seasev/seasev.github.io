@@ -1,6 +1,6 @@
 baseURL = 'https://seansev.com/'
 languageCode = 'en-us'
-title = "Sean's Personal Site"
+title = "Sean S. Williams - Computer Engineer"
 theme = 'poison'
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
